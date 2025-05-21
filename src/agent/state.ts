@@ -6,4 +6,4 @@ export const GraphState = Annotation.Root({
     reducer: (x, y) => x.concat(y),
     default: () => [],
   }),
-})
+});
