@@ -3,11 +3,11 @@
 1. install dependency
 
 ```sh
-pnpm i
+npm i
 ```
 
 2. launch server
 
 ```
-pnpm run dev
+npm run dev
 ```
